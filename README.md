@@ -47,7 +47,7 @@ Java, Spring, MySQL, AWS, Git 등을 사용하여 서비스를 설계, 개발한
 >
 >[프로젝트 상세 설명](https://github.com/muhan-memdori/hiwork) 참고
 
-</br>
+#### 📍 Techs that I've usually used✌️
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,nodejs,aws&perline=5)](https://skillicons.dev)
 <!--
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -61,10 +61,3 @@ Java, Spring, MySQL, AWS, Git 등을 사용하여 서비스를 설계, 개발한
 -->
 <br/>
   
-#### 📍 Techs that I've used at least once🙂
-[![My Skills](https://skillicons.dev/icons?i=express,jquery,python,flask,styledcomponents,sass,mongodb,firebase,vite)](https://skillicons.dev)
-<!--
-<img src="https://img.shields.io/badge/jQuery-1E2E3B?style=for-the-badge&logo=jQuery&logoColor=21AADF"/>
-<img src="https://img.shields.io/badge/Flask-00c6d1?style=for-the-badge&logo=Flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/styled%20components-3B3B3B?style=for-the-badge&logo=styledcomponents&logoColor=DB7093"/>
-
