@@ -26,18 +26,7 @@ Java, Spring, MySQL, AWS, Git 등을 사용하여 서비스를 설계, 개발한
 
 ---
 
-### 2. [나의 개인 비서, NABI]([https://github.com/hayeon17kim/hackathon-project](http://chanyangkim.cafe24.com/))
->일정 관리 콘솔 프로그램 (팀 프로젝트)  
->개발 기간: 2022.12.05 ~ 2022.12.09  
->
->기술 스택:  
->Java 11 / Gradle / Eclipse
->
->[프로젝트 상세 설명](https://github.com/hayeon17kim/hackathon-project#-%EB%82%98%EC%9D%98-%EA%B0%9C%EC%9D%B8-%EB%B9%84%EC%84%9C-nabi-%EF%B8%8F) 참고
-
----
-
-### 3. [S.I VILLAGE](http://chanyangkim.cafe24.com/)
+### 1. [S.I VILLAGE](http://chanyangkim.cafe24.com/)
 >SI VILLAGE CRUD 게시판 (팀 프로젝트)  
 >개발 기간: 2022.12.05 ~ 2022.12.09 
 >
