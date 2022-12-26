@@ -54,6 +54,8 @@ Java, Spring, MySQL, AWS, Git 등을 사용하여 서비스를 설계, 개발한
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-f7ea00?style=for-the-badge&logo=JavaScript&logoColor=black">
 <img src="https://img.shields.io/badge/react-282C34?style=for-the-badge&logo=react&logoColor=61DAFB">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 -->
 <br/>
   
