@@ -26,9 +26,9 @@ Java, Spring, MySQL, AWS, Git 등을 사용하여 서비스를 설계, 개발한
 
 ---
 
-### 2. [나의 개인 비서, NABI](https://github.com/hayeon17kim/hackathon-project)
+### 2. [나의 개인 비서, NABI]([https://github.com/hayeon17kim/hackathon-project](http://chanyangkim.cafe24.com/))
 >일정 관리 콘솔 프로그램 (팀 프로젝트)  
->개발 기간: 2020.10.21 ~ 2020.10.23  
+>개발 기간: 2022.12.05 ~ 2022.12.09  
 >
 >기술 스택:  
 >Java 11 / Gradle / Eclipse
@@ -37,13 +37,13 @@ Java, Spring, MySQL, AWS, Git 등을 사용하여 서비스를 설계, 개발한
 
 ---
 
-### 3. [HIWORK](https://github.com/muhan-memdori/hiwork)
->업무 관리 시스템 (팀 프로젝트)  
->개발 기간: 2020.01.30 ~ 진행중  
+### 3. [S.I VILLAGE](http://chanyangkim.cafe24.com/)
+>SI VILLAGE CRUD 게시판 (팀 프로젝트)  
+>개발 기간: 2022.12.05 ~ 2022.12.09 
 >
 >기술 스택:  
->Java 11 / Spring Boot 2.4.2 / Gradle / JPA / IntelliJ
->MariaDB / MySQL / Thymeleaf / JQuery / Ajax / Bulma / Figma
+>Java / JSP / 
+>OracleDB / Tomcat / HTML / JQuery / CSS 
 >
 >[프로젝트 상세 설명](https://github.com/muhan-memdori/hiwork) 참고
 
@@ -53,11 +53,7 @@ Java, Spring, MySQL, AWS, Git 등을 사용하여 서비스를 설계, 개발한
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-f7ea00?style=for-the-badge&logo=JavaScript&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/react-282C34?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-<img src="https://img.shields.io/badge/TailwindCSS-0B1120?style=for-the-badge&logo=TailwindCSS&logoColor=38BDF8">
-<img src="https://img.shields.io/badge/Python-1E415E?style=for-the-badge&logo=Python&logoColor=FFE283"/>
 -->
 <br/>
   
