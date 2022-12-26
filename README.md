@@ -21,7 +21,7 @@ Java, JavaScript, React, HTML, CSS, Tomcat, OracleDB 등을 사용하여 서비�
 
 >기술 스택:  
 >Java / Tomcat / AWS / Eclipse / Linux 
->MariaDB / MySQL / OracleDB / JSP / JQuery / React / Bootstrap / 
+>MariaDB / MySQL / OracleDB / JSP / JQuery / React  
 
 
 ---
@@ -34,17 +34,7 @@ Java, JavaScript, React, HTML, CSS, Tomcat, OracleDB 등을 사용하여 서비�
 >Java / JSP / 
 >OracleDB / Tomcat / HTML / JQuery / CSS 
 >
->[프로젝트 상세 설명](https://github.com/muhan-memdori/hiwork) 참고
+>[프로젝트 상세 설명](https://github.com/louis0320/sivillage/blob/main/README.md) 참고
 
-#### 📍 Techs that I've usually used✌️
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,nodejs,aws&perline=5)](https://skillicons.dev)
-<!--
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-f7ea00?style=for-the-badge&logo=JavaScript&logoColor=black">
-<img src="https://img.shields.io/badge/react-282C34?style=for-the-badge&logo=react&logoColor=61DAFB">
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
--->
-<br/>
   
