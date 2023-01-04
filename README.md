@@ -21,7 +21,7 @@ Java, JavaScript, React, HTML, CSS, Tomcat, OracleDB 등을 사용하여 서비�
 
 >기술 스택:  
 >Java / Tomcat / AWS / Eclipse / Linux 
->MariaDB / MySQL / OracleDB / JSP / JQuery / React  
+/ OracleDB / JSP / JQuery / React  
 
 
 ---
