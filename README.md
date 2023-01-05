@@ -31,5 +31,11 @@
 
 >[프로젝트 상세 설명](https://github.com/louis0320/village)
 
+### 2. [CAFE LATTE]
+>CRUD 게시판 (개인 프로젝트)  
+>개발 기간: 2022.12.05 ~ 2022.12.09 
+
+>[프로젝트 상세 설명](https://github.com/louis0320/cafe)
+
 
   
