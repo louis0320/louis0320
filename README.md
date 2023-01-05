@@ -1,15 +1,14 @@
 # 김찬양
-> 문제 해결을 즐기는 개발자
+> 안녕하세요.  웹 개발자를 준비하는  김찬양입니다. 
 
 </br>
 
 ## :pushpin: Intro
-개발 경험을 공유하거나 기록하는 것을 즐깁니다. 
-
-다양한 기술을 학습하거나 사용하고 경험을 쌓고 있습니다. 
-
-Java, JavaScript, React, HTML, CSS, Tomcat, OracleDB 등을 사용하여 서비스를 설계, 개발한 경험으로 
-효율적인 코드를 작성하기 위해 언제나 고민하고 있습니다. 
+- **도전적인 목표**를 통해, **습득하고 배우는 과정**을 즐깁니다.
+- 
+- 팀으로 프로젝트를 작업할 때는 원활한 **의사소통**을 위해 노력합니다.
+- 
+- 한눈에 **보기 좋은 코드**를 좋아합니다.
 
 </br>
 
@@ -34,7 +33,7 @@ Java, JavaScript, React, HTML, CSS, Tomcat, OracleDB 등을 사용하여 서비�
 >Java / JSP / 
 >OracleDB / Tomcat / HTML / JQuery / CSS 
 >
->[프로젝트 상세 설명](https://github.com/louis0320/sivillage/blob/main/README.md) 참고
+>[프로젝트 상세 설명](https://github.com/louis0320/village) 참고
 
 
   
