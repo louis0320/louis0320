@@ -30,7 +30,7 @@ Java / JSP / Servlet / SpringBoot
 
 OracleDB / Mysql
 
-AWS(EC2/LightSail) / GPC 
+AWS(EC2/LightSail) / GPC / Firebase
 
 Linux
 
