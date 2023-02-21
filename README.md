@@ -19,6 +19,7 @@
 </br>
 
 ---
+
 ##활용 가능 기술 스택 
 
 HTML / CSS / 
@@ -34,7 +35,9 @@ AWS(EC2/LightSail) / GPC
 Linux
 
 Git
+
 ---
+
 ##요즘 공부하는 것
 
 React Native  : https://play.google.com/store/apps/details?id=com.louiskim0320.chanyangTodo&pli=1 (강의 프로젝트)
