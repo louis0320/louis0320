@@ -15,27 +15,24 @@
 ## :pushpin: Contact
 - 이메일:  zldqjrj@naver.com
 - 깃헙: https://github.com/louis0320
-
+- 포트폴리오 : http://kimchanyang.shop
 </br>
 
->기술 스택:  
->Java / Tomcat / AWS / Eclipse / Linux 
-/ OracleDB / JSP / JQuery / React  
+활용 가능 기술 스택 
+
+HTML / CSS / 
+JavaScript / jQuery / React 
+Java / JSP / Servlet / SpringBoot / 
+AWS(EC2/LightSail) / GPC 
+Linux
+Git
+
+요즘 공부하는 것
+React Native  : https://play.google.com/store/apps/details?id=com.louiskim0320.chanyangTodo&pli=1 (강의 프로젝트)
+SpringBoot
+Linux / Docker / Jenkins / Git
 
 
----
-
-### 1. [S.I VILLAGE](http://chanyangkim.cafe24.com/)
->SI VILLAGE CRUD 게시판 (팀 프로젝트)  
->개발 기간: 2022.12.05 ~ 2022.12.09 
-
->[프로젝트 상세 설명](https://github.com/louis0320/village)
-
-### 2. [CAFE LATTE]
->CRUD 게시판 (개인 프로젝트)  
->개발 기간: 2022.12.05 ~ 2022.12.09 
-
->[프로젝트 상세 설명](https://github.com/louis0320/cafe)
 
 
   
